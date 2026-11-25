@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.0-2",
-    "notes":  "• Adicione amigos com um código curto (XXXX-XXXX-XXXX) que nunca muda.\n• As próximas atualizações aparecem sozinhas no app.\n\nSeu amigo também precisa desta versão para ser encontrado pelo código.\n",
-    "pub_date":  "2026-11-24T02:02:29Z",
+    "version":  "1.0.0-3",
+    "notes":  "• As mensagens agora aparecem na ordem certa, mesmo quando o relógio do outro PC está diferente.\n• O histórico antigo é reordenado automaticamente ao abrir.\n• Registro mais detalhado de falhas de conexão, para ajudar a achar problemas.\n\nPara a ordem valer nos dois sentidos, os dois lados precisam desta versão.\n",
+    "pub_date":  "2026-11-25T02:04:23Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSek9GTXBRVmdjT01KNmdCUVB6NlV0a3RxSmM5eS8xU3M2QndLZWorOGY3QTg2V1JpeEpwaWxkSkd5cjlPWWRnQ2xtb2o3Y2xMNnlIU0xrcnMrTHF3QlRwbVlIeHV2YWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg1NTMwCWZpbGU6Rmx1dHRlcnNoeV8xLjAuMC0yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMC0yCmI1ZkFQMytldkRpMUpwY05SK1VFaEpHTmFDdWFSV3Z0YU1Ub20vdm9oWk1rdEtIaTlrcWVJTkNkc1Z3UFFxd3VEdmxNSDM0bmxCM1piMGFZZG4wb0NBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/ArthurCB07/fluttershy-releases/main/Fluttershy-Setup-1.0.0-2-x64.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSek9GTXBRVmdjT0JqS2wwd2hyYTdtNERnNlFaMC9EZmNDQTdSYWxqWndTVVJvVWhQSVNQcG1NeitiN3dzMzgzWWFmR2tOeE14VHBmYUhCdkpCNXo4Rm9pZWYxSXpRVHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTcyMjM5CWZpbGU6Rmx1dHRlcnNoeV8xLjAuMC0zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMC0zCmlGZlVrK2tEODBZc09hSjNHblMwSVRaNTZ4K256Mm9LTE9MaDFCb1JsVXpFSVhSZVVlQzc2czlPOTg0ZzdEWlIwVVQzYlh3bUFqVDFxLzRRdzB2M0N3PT0K",
+                                             "url":  "https://raw.githubusercontent.com/ArthurCB07/fluttershy-releases/main/Fluttershy-Setup-1.0.0-3-x64.exe"
                                          }
                   }
 }
